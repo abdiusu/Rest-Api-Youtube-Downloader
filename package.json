@@ -1,13 +1,16 @@
 {
   "name": "api-youtube-downloader",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get Youtube Video Download Links with a choice of various resolutions.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "youtube downloader",
+    "download video youtube"
+  ],
+  "author": "Abdi Syahputra Harahap",
   "license": "ISC",
   "dependencies": {
     "is-valid-http-url": "^1.0.3",
